@@ -1,6 +1,6 @@
-# bincapz-samples
+# malcontent-samples
 
-This repository contains samples used for developing and testing bincapz rules.
+This repository contains samples used for developing and testing malcontent rules.
 
 There are several categories organized within their own directories:
 
@@ -16,4 +16,4 @@ There are several categories organized within their own directories:
 
 Each directory contains both clean and unclean samples.
 
-The purpose of this repository is to be cloned so that bincapz can be run against all or a subset of the samples.
+The purpose of this repository is to be cloned so that malcontent can be run against all or a subset of the samples.
